@@ -1,0 +1,27 @@
+Hello Everyone..!
+
+Software name = Youtube downloader
+
+Functions included:
+1. Video download
+2. Audio download
+3. Thumbnil download
+4. Playlist download
+
+
+let's run the software
+
+1. I am downloading this song audio. So I am copy the link
+and I am going to paste the link in my software.
+
+focus on left side as you can see there is no file
+It is taking time because I have low internet speed 
+
+
+Now I am downloading the video 
+2. I am downloading this song video. So I am copy the link and 
+I am going to paste the link in my software.
+
+focus on left side as you can see there is no file 
+
+It is taking a time just because I have low Internet signals
